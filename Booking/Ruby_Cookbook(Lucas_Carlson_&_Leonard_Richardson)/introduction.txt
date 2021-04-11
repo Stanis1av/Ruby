@@ -1,0 +1,8 @@
+Ruby Cookbook
+
+by Lucas Carlson and Leonard Richardson
+
+
+Copyright © 2015 Lucas Carlson and Leonard Richardson. All rights reserved.
+
+Printed in the United States of America.

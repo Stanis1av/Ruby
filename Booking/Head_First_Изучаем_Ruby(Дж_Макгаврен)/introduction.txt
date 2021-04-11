@@ -1,0 +1,6 @@
+Дж. Макгаврен
+Head First. Изучаем Ruby
+Серия «Head First O’Reilly»
+Перевел с английского Е. Матвеев
+
+© 2016 Jay McGavren

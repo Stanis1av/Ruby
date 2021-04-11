@@ -1,0 +1,6 @@
+Metaprogramming Ruby
+Program Like the Ruby Pros
+
+Paolo Perrotta
+
+Copyright © 2010 Paolo Perrotta.
