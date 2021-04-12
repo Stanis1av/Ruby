@@ -33,10 +33,10 @@ pp qq
 # собственный класс String), можно воспользоваться кавычками:
 
 str = 'This is a string'
-puts str
+puts str #=> This is a string
 
-puts str.class
-puts str.object_id
+puts str.class #=> String
+puts str.object_id #=> index_object
 
 pp qq
 
@@ -44,7 +44,7 @@ pp qq
 # Но этот способ является избыточным в отношении строк, и так никто не
 # поступает
 str = String.new('Hello, world!')
-puts str
+puts str  #=> Hello, world!
 
 # Подобные специальные (укороченные) способы создании объектов класса,
 # как в случае выше, (использование кавычек для создания объекта строки,)
